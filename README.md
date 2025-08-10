@@ -1,3 +1,7 @@
+# Autor
+María Fernanda Rodríguez Ospina - Ingeniería de Sistemas
+# Curso
+Procesamiento de datos
 # Descripcion del Repositorio
 Este repositorio contiene las soluciones a los cuestionarios practicos de los cuadernos de aprendizaje Python, ademas de un reto bono que integra todos los conocimientos adquiridos. Los materiales originales cubren los temas fundamentales para dominar Python, desde estructuras basicas de datos hasta programacion orientada a objetos.
 
@@ -31,7 +35,3 @@ Al trabajar con este material se logró:
 # Notas Importantes
   - El Cuaderno 9 (Clases) no incluye soluciones ya que no contenia cuestionarios
   - Todas las soluciones han sido verificadas y probadas
-
-
-Envia un Pull Request
-
