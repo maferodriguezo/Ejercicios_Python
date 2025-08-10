@@ -8,12 +8,12 @@ Este repositorio contiene las soluciones a los cuestionarios practicos de los cu
 # Estructura de Contenidos
 Cuadernos Resueltos
   - Cuaderno 1: Operaciones de cadenas - Soluciones a ejercicios de manipulacion de strings
-  - Cuaderno 2: Tuplas - Problemas resueltos sobre tuplas e inmutabilidad
-  - Cuaderno 3: Listas - Ejercicios practicos con listas y sus metodos
+  - Cuaderno 2: Tuplas - Problemas resueltos sobre tuplas
+  - Cuaderno 3: Listas - Ejercicios practicos con listas
   - Cuaderno 4: Conjuntos - Soluciones con operaciones de conjuntos
-  - Cuaderno 5: Diccionarios - Problemas aplicados con estructuras clave-valor
+  - Cuaderno 5: Diccionarios - Problemas aplicados con estructuras llave-valor
   - Cuaderno 6: Condiciones - Implementacion de logica condicional
-  - Cuaderno 7: Bucles - Soluciones con while y for loops
+  - Cuaderno 7: Bucles - Soluciones con while y for
   - Cuaderno 8: Funciones - Ejercicios de creacion y uso de funciones
 
 # Bono Adicional
